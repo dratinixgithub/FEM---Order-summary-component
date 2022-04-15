@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Approach
 
-![](./approach.png)
+![](./theApproach.png)
 
 ### Built with
 
