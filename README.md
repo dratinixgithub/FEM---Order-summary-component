@@ -25,8 +25,11 @@ Users should be able to:
 
 ### Outcome
 
+- MOBILE Version:
 
 ![](./ssMobile.png)
+
+- DESKTOP Version:
 
 ![](./ssDesktop.png)
 
